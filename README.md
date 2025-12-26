@@ -1,4 +1,4 @@
-# Developer of Lightbulb 👍
+# Developer of HackerTool 👍
 ### I'm also a rapper
-> [!NOTE]
+> [!IMPORTANT]
 > I'm not a professional programmer.
